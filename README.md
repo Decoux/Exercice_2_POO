@@ -1,1 +1,1 @@
-# Exercice_2_POO
+# Exercice_2_POO by Paul Decoux
